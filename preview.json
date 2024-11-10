@@ -1,1 +1,48 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "GAUSSIAN_DEVIATION": 2.5,
+    "DOMAIN_WARPING_MULTIPLIER_1": 4.0,
+    "STROKE_COLOR": {
+      "red": 32.0,
+      "green": 12.0,
+      "blue": 12.0,
+      "alpha": 7.65
+    },
+    "FBM_AMPLITUDE_MULTIPLIER": 0.5,
+    "DOMAIN_WARPING_MULTIPLIER_3": 4.0,
+    "DOMAIN_WARPING_MULTIPLIER_2": 4.0,
+    "Y_INCREMENT": 15,
+    "FBM_FREQUENCY_MULTIPLIER": 2.0,
+    "WIDTH": 1000,
+    "MAXIMUM_ITERATIONS": 10000,
+    "FBM_STARTING_FREQUENCY": 1.0,
+    "HEIGHT": 1000,
+    "FBM_STARTING_AMPLITUDE": 1.0,
+    "BACKGROUND_COLOR": {
+      "red": 240.0,
+      "green": 235.0,
+      "blue": 230.0,
+      "alpha": 255.0
+    },
+    "DOMAIN_WARPING_OFFSET_2": {
+      "x": 0.17,
+      "y": 0.92,
+      "z": 0.0
+    },
+    "X_INCREMENT": 15,
+    "DOMAIN_WARPING_OFFSET_3": {
+      "x": 0.83,
+      "y": 0.28,
+      "z": 0.0
+    },
+    "SEED": 11,
+    "DOMAIN_WARPING_OFFSET_1": {
+      "x": 0.52,
+      "y": 0.13,
+      "z": 0.0
+    },
+    "NOISE2_MULTIPLIER": 4.5,
+    "HEADING_MULTIPLIER": 814.8733,
+    "FBM_NUMBER_OF_WAVES": 3
+  }
+}

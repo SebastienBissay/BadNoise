@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Arcs" />
         <module name="Template" />
+        <module name="Processing" />
       </profile>
     </annotationProcessing>
   </component>
